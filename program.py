@@ -3,3 +3,5 @@
 
 def myFunction():
   # My Function
+x = "Hello, World!"
+print(x)
